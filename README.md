@@ -35,7 +35,9 @@ Launch Client from root folder
 ```
  $ yarn start
 ```
-You will have an interactive terminal, just choose an item and then a qrcode will appear so you can scan it with your phone
+You will have an interactive terminal, it will ask you to choose from several items
+
+Once you decide to choose one, a qrcode will appear so you can scan it with your phone
 
 Your phone and computer have to be in the same network
 
