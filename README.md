@@ -4,7 +4,7 @@ Small program to download through qrcode images from a server
 
 ## Requirements
 
-The API works with
+Works with
 
 * Linux (64bit)
 
